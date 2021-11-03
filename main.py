@@ -34,7 +34,7 @@ def init():
 def get_user_input_for_number(user_prompt):
     while True:
         user_input = input(user_prompt + '\n')
-        if user_input.isnumeric() and 0 < int(user_input):
+        if user_input.isnumeric() and 0 <= int(user_input):
             break
     return int(user_input)
 
