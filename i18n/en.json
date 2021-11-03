@@ -1,0 +1,19 @@
+{
+  "label": "English",
+  "haviber": "What is your monthly salary? (net/gross, you'll get the answer in which you provide)",
+  "kerdesek": {
+    "keszenleti_orak": "How many hours were you on-call?",
+    "hetkoznap_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "How many hours did you work during on-call on workdays, starting between 10 PM and 6 AM?",
+    "hetkoznap_rendkivuli_munkaidoben_dolgozott_orak": "How many hours did you work during on-call on workdays, starting between 6 AM and 10 PM (excluding normal work hours)?",
+    "hetvegen_vagy_munkaszuneti_napon_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "How many hours did you work during on-call on weekends and bank holidays, starting between 10 PM and 6 AM?",
+    "hetvegen_vagy_munkaszuneti_napon_rendkivuli_munkaidoben_dolgozott_orak": "How many hours did you work during on-call on weekends and bank holidays, starting between 6 AM and 10 PM?"
+  },
+  "fizetes": {
+    "keszenleti_orak": "On-call hours pay",
+    "hetkoznap_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "Pay for hour worked on-call during workdays during night",
+    "hetkoznap_rendkivuli_munkaidoben_dolgozott_orak": "Pay for hours worked on-call during workdays",
+    "hetvegen_vagy_munkaszuneti_napon_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "Pay for hours worked on-call during bank holidays and weekends during night",
+    "hetvegen_vagy_munkaszuneti_napon_rendkivuli_munkaidoben_dolgozott_orak": "Pay for hours worked on-call during bank holidays and weekends"
+  }
+}
+

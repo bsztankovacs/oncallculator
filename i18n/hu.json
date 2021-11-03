@@ -1,0 +1,18 @@
+{
+  "label": "Magyar",
+  "haviber": "Mennyi a havibered? (net/br., amiben megadod abban kapod a vegeredmenyt)",
+  "kerdesek": {
+    "keszenleti_orak": "Hany orat voltal keszenletben?",
+    "hetkoznap_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "Hany orat dolgoztal keszenlet soran hetkoznapon, ejszakai muszakban? (kezdes: 22-06 kozott)",
+    "hetkoznap_rendkivuli_munkaidoben_dolgozott_orak": "Hany orat dolgoztal keszenlet soran hetkoznapon, nem ejszakai muszakban? (kezdes: 06-22 kozott)",
+    "hetvegen_vagy_munkaszuneti_napon_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "Hany orat dolgoztal keszenlet soran hetvegen vagy munkaszuneti napon, ejszakai muszakban? (kezdes: 22-06 kozott)",
+    "hetvegen_vagy_munkaszuneti_napon_rendkivuli_munkaidoben_dolgozott_orak": "Hany orat dolgoztal keszenlet soran hetvegen vagy munkaszuneti napon, nem ejszakai muszakban? (kezdes: 06-22 kozott)"
+  },
+  "fizetes": {
+    "keszenleti_orak": "Keszenleti orak utani fizetes",
+    "hetkoznap_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "Hetkoznap ejszaka dolgozott orak utani fizetes",
+    "hetkoznap_rendkivuli_munkaidoben_dolgozott_orak": "Hetkoznap nem ejszaka dolgozott orak utani fizetes",
+    "hetvegen_vagy_munkaszuneti_napon_ejszakai_rendkivuli_munkaidoben_dolgozott_orak": "Hetvegen / munkaszuneti napokon ejszaka dolgozott orak utani fizetes",
+    "hetvegen_vagy_munkaszuneti_napon_rendkivuli_munkaidoben_dolgozott_orak": "Hetvegen / munkaszuneti napokon dolgozott orak utani fizetes"
+  }
+}
